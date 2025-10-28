@@ -8,3 +8,6 @@ Jailbreaks mentioned about your AI here are meant for you to patch and not for u
 
 # Important Disclaimer
 I am not responsible for your actions in the jailbreaks so don't ask me anything!
+
+# New note!
+So, i stumbled across this tab open in my chrome and i found that my 13 year old has been doing this! Like i have no problem if hes reporting them which he does. But the fact that it works amazes me!
