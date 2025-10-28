@@ -1,7 +1,4 @@
-# Gemini-2.5-Jailbreak
-A new Gemini 2.5 jailbreak called Gemini 3.0 made by me! It uses a part of the actual Gemini 2.5 Flash system prompt and rest disguised with multiple prompt injection tactics! [Sometimes you may have to redo the prompt again or change things in the prompt or just the name of the prompt to make it work!]
-
-Gemini 2.5 Flash Jailbreak
-https://github.com/NIGHTMAREPLAYZOFF/Gemini-2.5-Jailbreak/tree/main/Gemini
+# LLM-Jailbreak
+This is a collection of jailbreaks i made which works and outdated jailbreaks are put inside the outdated folder for changes and a way to bring it back. Users can also contribute!
 
 # Note: I am not responsible for your actions in the jailbreaks so don't ask me anything!
